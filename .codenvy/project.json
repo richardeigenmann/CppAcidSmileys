@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"project:/X-Runner":{"ram":1000,"variables":{"configurationType":"cpp"},"options":{}}},"default":"project:/X-Runner"},"description":"New Cpp Project","type":"cpp","attributes":{"language":["cpp"]}}
